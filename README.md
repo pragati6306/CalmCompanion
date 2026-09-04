@@ -172,17 +172,6 @@ The frontend of CalmCompanion is deployed using **Vercel**.
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of the application here to showcase the user interface.
-
-```markdown
-![Home Page](./screenshots/home.png)
-![Mood Tracker](./screenshots/mood-tracker.png)
-![Games](./screenshots/games.png)
-```
-
----
 
 ## 🎯 Project Goals
 
