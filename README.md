@@ -6,6 +6,9 @@
 
 🚀 **[View CalmCompanion Live](https://calm-companion-frontend.vercel.app/)**
 
+## 🎥 Project Working
+
+[▶️ Watch Project Working Video](https://drive.google.com/file/d/1hiBmJDwv1Px6M2ixx4RZ7NEyaf0_v6ii/view?usp=sharing)
 ---
 
 ## 📌 About The Project
